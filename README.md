@@ -27,4 +27,4 @@
   
 </div>
 
-![Snake animation](https://github.com/xandfcosta)
+![Snake animation](https://github.com/xandfcosta/xandfcosta/blob/output/github-contribution-grid-snake.svg)
